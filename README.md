@@ -1,5 +1,5 @@
 
-## NHÓM_11_LAb_1
+## NHÓM_11_TH_1
 ## Nội dung thực hành
 Bài thực hành tìm hiểu thông số phần cứng máy tính, cài đặt và khắc phục sự cố phần mềm
 (Notepad++, kiểm tra Wi-Fi, Command Prompt), viết script Python, và thiết kế infographic
